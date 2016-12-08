@@ -1,0 +1,39 @@
+body {
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+	background: url('13.jpg') no-repeat center center fixed;
+
+}
+header,footer {
+	background: grey;
+}
+footer p {
+	margin: 0;
+	padding: 10px 0;
+}
+footer{
+	background: grey;
+	margin-top: 350px;
+}
+.box {
+	margin-bottom: 20px;
+	padding: 15px;
+	background: #fff;
+	background: rgba(255,255,255,0.9);
+}
+#para
+{
+	color:white;
+}
+#img2{
+	float: right;
+	margin-top: -150px;
+	margin-right: 10px;
+}
+#movie_name{
+	width:200px;
+	height:70px;
+}
+#button{
+	width: 100px;
+	height:50px;
+}
